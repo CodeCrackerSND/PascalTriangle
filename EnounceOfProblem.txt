@@ -1,0 +1,10 @@
+https://www.sanfoundry.com/cpp-program-print-pascal-triangle/
+
+ Registration Challenge
+For all the the numbers in Pascal's triangle starting from row 5 up to row 18, 
+find the numbers that have a digit sum that is equal to their digit product. 
+The solution to the challenge is the total number of all the resulting numbers.
+The digit sum of a number is the sum of all digits. Likewise, the digit product
+of a number is the product of all digits. For example, the digit sum of 324
+is 9 and the digit product is 24. 
+
